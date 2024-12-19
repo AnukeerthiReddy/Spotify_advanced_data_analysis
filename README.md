@@ -60,9 +60,7 @@ The work blends advanced technical analysis with a strong focus on storytelling 
 ---
 
 ## **References**  
-- Dataset: [Spotify Dataset](https://developer.spotify.com/documentation/web-api/)  
+ 
 - Tools: Python, SHAP, Random Forest  
 - Visualization: Matplotlib, Seaborn  
-
-Feel free to explore the repository for the detailed analysis, code, and supporting materials!  
 
