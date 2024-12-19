@@ -1,4 +1,6 @@
-# Spotify_advanced_data_analysis
+# The Anatomy of a Hit: Decoding Song Popularity with Machine Learning & SHAPing Insights 🎶 
+![Song_popularity_Anukeerthi](https://github.com/user-attachments/assets/13e2e7cd-d9db-4346-83a6-31a205a6c38d)
+
 This was a winning project at the Data Analytics Poster presentation competition  
 Presented to over 300+ data professionals.  
 [View the poster](Song_popularity_Anukeerthi.png)  
