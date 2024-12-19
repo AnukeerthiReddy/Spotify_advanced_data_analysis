@@ -1,4 +1,3 @@
-# The Anatomy of a Hit: Decoding Song Popularity with Machine Learning & SHAPing Insights 🎶 
 ![Song_popularity_Anukeerthi](https://github.com/user-attachments/assets/13e2e7cd-d9db-4346-83a6-31a205a6c38d)
 
 This was a winning project at the Data Analytics Poster presentation competition  
