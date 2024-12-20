@@ -1,6 +1,6 @@
 ![Song_popularity_Anukeerthi](https://github.com/user-attachments/assets/13e2e7cd-d9db-4346-83a6-31a205a6c38d)
 
-This was a winning project at the Data Analytics Poster presentation competition,presented to over 300+ data professionals.     
+This was a winning project at the Data Analytics Poster presentation competition, presented to over 300+ data professionals.     
 This project dives into Spotify's comprehensive dataset (spanning 1957 to 2020) to uncover the factors that define the   popularity of a song. By leveraging machine learning techniques and SHAP (SHapley Additive exPlanations) insights, this analysis  explores correlations between track popularity and musical features like acoustics, danceability, and loudness.  
   
 The work blends advanced technical analysis with a strong focus on storytelling and visualization, enabling actionable insights   into the dynamics of music popularity across different genres and time periods. 
